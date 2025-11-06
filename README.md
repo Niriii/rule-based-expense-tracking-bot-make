@@ -22,19 +22,17 @@ and logs them into a Google Sheet automatically.
 
 ## 🔗 Automation Flow Diagram
 
- Bot_visulas/Make_Workflow.png.png
+ view the visuals in Bot_Visuals folder
 
 ## 📊 Example Message Format
-Expense: Lunch ₹150
-Income: Freelance ₹2000
+Expense: spent 150 lunch
 
-markdown
-Copy code
+Income: Add 2000 salary
 
 ## 📁 Data Output
 Each entry is logged in Google Sheets with:
-| Date | Type | Category | Amount | Description |
-|------|------|-----------|---------|--------------|
+| Date | Type | Amount | Description |
+|------|------|--------|--------------|
 
 ## 🧰 How to Recreate
 1. Create a Telegram Bot using @BotFather  
