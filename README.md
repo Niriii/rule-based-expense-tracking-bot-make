@@ -22,6 +22,8 @@ and logs them into a Google Sheet automatically.
 
 ## 🔗 Automation Flow Diagram
 
+ Bot_visulas/Make_Workflow.png.png
+
 ## 📊 Example Message Format
 Expense: Lunch ₹150
 Income: Freelance ₹2000
