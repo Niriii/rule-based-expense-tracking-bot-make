@@ -42,9 +42,8 @@ Each entry is logged in Google Sheets with:
 5. Test & deploy automation  
 
 ## ✨ Future Improvements
-- Add chat model APIs to get duynamic responses
+- Integrate chat model APIs to get dynamic responses
 - Add auto-category detection via NLP
-- Integrate with Notion or Airtable
 - Build a dashboard in Power BI
 
 ## 🧑‍💻 Author
